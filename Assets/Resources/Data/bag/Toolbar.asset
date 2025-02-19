@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52fb4fa83e1d94f419a69a5ac4773175, type: 3}
+  m_Name: Toolbar
+  m_EditorClassIdentifier: 
+  slotList:
+  - item: {fileID: 11400000, guid: 5e67458d6bf79406981a5e44fa5bf485, type: 2}
+    count: 1
+    money: 0
+  - item: {fileID: 11400000, guid: 71e2594a7a1820347896c9202a335a4f, type: 2}
+    count: 1
+    money: 0
+  - item: {fileID: 11400000, guid: 606876b9a37de4f98b7785a6fd291b56, type: 2}
+    count: 1
+    money: 0
+  - item: {fileID: 11400000, guid: 22294e86d7777c940958f14e1ac2e3ab, type: 2}
+    count: 5
+    money: 0
+  - item: {fileID: 11400000, guid: cb53596dd2fc18447b685aff61aff2ba, type: 2}
+    count: 1
+    money: 0
+  - item: {fileID: 11400000, guid: cd9296a22a46948b28b2ac68ce69deb0, type: 2}
+    count: 5
+    money: 0
+  - item: {fileID: 11400000, guid: 2d06f9e29425b1d4c8db66e5904cc4bd, type: 2}
+    count: 61
+    money: 10620
+  - item: {fileID: 0}
+    count: 0
+    money: 20
+  - item: {fileID: 11400000, guid: f5811270634a26f41b2a09363e9d8b85, type: 2}
+    count: 3
+    money: 40

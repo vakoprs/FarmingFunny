@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SceneBackyard1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/ChickenShop.unity
+    guid: 9f8975798ee4c164c8fa19f8a427c83c
+  - enabled: 1
+    path: Assets/Scenes/FrontStreet1.unity
+    guid: 0ab1019d6917ce24f9fbbd311c83e55e
+  - enabled: 1
+    path: Assets/Scenes/chickenhouse.unity
+    guid: e72ac3ea6015d4112bf7b47bab47a4a1
+  - enabled: 1
+    path: Assets/Scenes/Beach.unity
+    guid: ea6499c9421886f44b25523f9a9fb506
+  - enabled: 1
+    path: Assets/Scenes/Church.unity
+    guid: 2729ca0d55e7e3f438d66c3d73b549ec
+  - enabled: 1
+    path: Assets/Scenes/cowandsheephouse.unity
+    guid: 14d740542af2744c59dbd0b22258e002
+  - enabled: 1
+    path: Assets/Scenes/CowSheepShop.unity
+    guid: ab7e8ca9093061c429ecfeb9d587a01f
+  - enabled: 1
+    path: Assets/Scenes/ForgeHouse.unity
+    guid: 3a6c14ed1527ddc41b6d333ad9fe8969
+  - enabled: 1
+    path: Assets/Scenes/Hospital.unity
+    guid: ec0136b13a2c94093be28ffc3a8cb3d5
+  - enabled: 1
+    path: Assets/Scenes/MagicHouse.unity
+    guid: 2186f3204e9684947856e4e720c5c328
+  - enabled: 1
+    path: Assets/Scenes/Market.unity
+    guid: 0fefbfa163b66405bafe8eefc4198339
+  - enabled: 1
+    path: Assets/Scenes/Mineral.unity
+    guid: 719c0bdbcd52b46f1801a382fa13e87e
+  - enabled: 1
+    path: Assets/Scenes/Myhouse.unity
+    guid: 88bdb112ebf6b426fb47c92e3a138069
+  - enabled: 1
+    path: Assets/Scenes/NPChouse.unity
+    guid: 49d3be90a7dfb4c499e81c73faf21fea
+  - enabled: 1
+    path: Assets/Scenes/pighouse.unity
+    guid: d95ae4da726ce4a74ac81bc85d939528
+  - enabled: 1
+    path: Assets/Scenes/PigShop.unity
+    guid: 3554527ebf0c6894dac62be9af47539b
+  - enabled: 1
+    path: Assets/Scenes/ProcessHouse.unity
+    guid: 40b4e8e52fa9e884f90af58fa98a4509
+  - enabled: 1
+    path: Assets/Scenes/Restaurant.unity
+    guid: 5ece65865b41123459f395280d1ed37f
+  - enabled: 1
+    path: Assets/Scenes/Scene1.unity
+    guid: 00a62c47577ec410ca6f6a9c9edba1e4
+  - enabled: 1
+    path: Assets/Scenes/SceneBackyard3.unity
+    guid: 59d624b44d87edc40890f8ff6641661b
+  - enabled: 1
+    path: Assets/Scenes/SceneBackyard2.unity
+    guid: 379d0868a2271c74a99e3f470ff097a7
+  - enabled: 1
+    path: Assets/Scenes/square.unity
+    guid: 5af1d3a05a21140ec9745a40e5052bb3
+  - enabled: 1
+    path: Assets/Scenes/street2.unity
+    guid: cb9637b2b517e4297933b7c80a580ecf
+  - enabled: 1
+    path: Assets/Scenes/TownMayorHouse.unity
+    guid: 2dc99ad5e66b94410935e4dd03b4c0b9
+  m_configObjects: {}

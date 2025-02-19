@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df2de50578d954d6da2a83198af14d01, type: 3}
+  m_Name: Fishgrod_normal
+  m_EditorClassIdentifier: 
+  type: 3
+  sprite: {fileID: 965393687, guid: f646b171459aabc419b5fc7e06b61c24, type: 3}
+  prefab: {fileID: 6927209411495460886, guid: 4314845e2d41a4b48bad544d6f984d88, type: 3}
+  maxCount: 1
+  SellMoney: 50
+  buyMoney: 100
+  GrowthDay: 0
+  MaturityDay: 0
+  chopCount: 0

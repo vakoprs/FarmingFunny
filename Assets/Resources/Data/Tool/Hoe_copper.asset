@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df2de50578d954d6da2a83198af14d01, type: 3}
+  m_Name: Hoe_copper
+  m_EditorClassIdentifier: 
+  type: 15
+  sprite: {fileID: 1389906265, guid: 218736fa582ab154c9b8b5d2182bf968, type: 3}
+  prefab: {fileID: 8879409950458138777, guid: 59ed64d374f7ec54f989b6aa5d09a89c, type: 3}
+  maxCount: 1
+  SellMoney: 80
+  buyMoney: 130
+  GrowthDay: 0
+  MaturityDay: 0
+  chopCount: 0

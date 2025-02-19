@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df2de50578d954d6da2a83198af14d01, type: 3}
+  m_Name: strawberryseed
+  m_EditorClassIdentifier: 
+  type: 39
+  sprite: {fileID: 2077183547, guid: 9113ce076e0814b10bbc6b3664880920, type: 3}
+  prefab: {fileID: 6356359705927865884, guid: d2067b3b4a1174cd5b009fea682e75b6, type: 3}
+  maxCount: 99
+  SellMoney: 0
+  buyMoney: 10
+  GrowthDay: 7
+  MaturityDay: 35
+  chopCount: 0
