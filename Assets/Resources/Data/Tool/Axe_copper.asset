@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df2de50578d954d6da2a83198af14d01, type: 3}
+  m_Name: Axe_copper
+  m_EditorClassIdentifier: 
+  type: 28
+  sprite: {fileID: 1241136886, guid: 8fbe08431a43b5749b0dbd6f5bbba7e5, type: 3}
+  prefab: {fileID: 64469781522869453, guid: ae6ecef6f3c32f04aa1bf847680fa9bb, type: 3}
+  maxCount: 1
+  SellMoney: 80
+  buyMoney: 130
+  GrowthDay: 0
+  MaturityDay: 0
+  chopCount: 0

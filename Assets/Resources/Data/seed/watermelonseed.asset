@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df2de50578d954d6da2a83198af14d01, type: 3}
+  m_Name: watermelonseed
+  m_EditorClassIdentifier: 
+  type: 41
+  sprite: {fileID: -49999184, guid: 9113ce076e0814b10bbc6b3664880920, type: 3}
+  prefab: {fileID: 5125400703678367184, guid: c376d30b2fc364126945afdbca7d7227, type: 3}
+  maxCount: 99
+  SellMoney: 0
+  buyMoney: 18
+  GrowthDay: 12
+  MaturityDay: 60
+  chopCount: 0

@@ -1,0 +1,4 @@
+Bethany：你好，这里是医院。 
+Bethany：有什么可以帮助您的？ 
+Bethany：需要看看吗？ 
+Bethany：需要回复健康值吗？

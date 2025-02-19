@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df2de50578d954d6da2a83198af14d01, type: 3}
+  m_Name: earrings
+  m_EditorClassIdentifier: 
+  type: 84
+  sprite: {fileID: -1097381432, guid: 81b361831cab8fa4b8bdc5c895ae8858, type: 3}
+  prefab: {fileID: 5070382763788386145, guid: 2f0fb3be424aa6048959156ddb43d203, type: 3}
+  maxCount: 20
+  SellMoney: 0
+  buyMoney: 50
+  GrowthDay: 0
+  MaturityDay: 0
+  chopCount: 0

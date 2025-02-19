@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df2de50578d954d6da2a83198af14d01, type: 3}
+  m_Name: PigBaby
+  m_EditorClassIdentifier: 
+  type: 69
+  sprite: {fileID: 305400192, guid: a99ce166c1f25b949a0d256fc2b94d94, type: 3}
+  prefab: {fileID: 4624876601745886636, guid: b5c9596a8727e8c4ab8303f7de95dd26, type: 3}
+  maxCount: 50
+  SellMoney: 18
+  buyMoney: 180
+  GrowthDay: 0
+  MaturityDay: 0
+  chopCount: 0
+  favor: 0
